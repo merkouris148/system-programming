@@ -80,7 +80,7 @@ We describe, now, the communication protocol between the server and the clients,
 
 ### Server & Client Termination
 
-In order to terminate the server or a client you have to use the `fg` command. Then *kill* the process with `Ctrl+C`. Then the server or client with receive a `SIGINT` or `SIGQUIT` [signal]([Signal (IPC) - Wikipedia](https://en.wikipedia.org/wiki/Signal_(IPC))) and terminate safely. The clients should be terminated **before** the server.
+In order to terminate the server or a client you have to use the `fg` command. Then *kill* the process with `Ctrl+C`. Then the server or client with receive a `SIGINT` or `SIGQUIT` [signal](https://en.wikipedia.org/wiki/Signal_(IPC)) and terminate safely. The clients should be terminated **before** the server.
 
 ## Issues
 
