@@ -93,6 +93,6 @@ In order to terminate the server or a client you have to use the `fg` command. T
 ## Notes
 
 - This code is written in C++11 and compiled with [GNU g++ compiler](https://en.wikipedia.org/wiki/GNU_Compiler_Collection#Languages), version 7.5.0.
-- All the shell commands described above are for the [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell))) Unix Shell.
+- All the shell commands described above are for the [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) Unix Shell.
 - To compile this application use the `make` command.
 - A more detailed description of this assignment can be found in the file `hw3-spring-2019.pdf` (in Greek).
