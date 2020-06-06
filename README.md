@@ -10,7 +10,7 @@ We list here the components of this repository, along with a discription of ever
 
 Firstly, we discribe the libraries made for the projects.
 
-1. **lib_containers** In this directory are placed all the source files reguarding [cointainer](https://en.wikipedia.org/wiki/Container_(abstract_data_type)) libraries. The libraries make heavy use of [C++ templates](http://www.cplusplus.com/doc/oldtutorial/templates/). An effort has been made to provide a simple and easy to use interface and meet the STL libraires' feeling. The data structures implemented here are used throughout the whole project.
+1. **lib_containers** In this directory are placed all the source files reguarding [cointainer](https://en.wikipedia.org/wiki/Container_(abstract_data_type)) libraries. The libraries make heavy use of [C++ templates](http://www.cplusplus.com/doc/oldtutorial/templates/). An effort has been made to provide a simple and easy to use interface, that meets the STL libraires' feeling. The data structures implemented here are used throughout the whole project.
 
 2. **lib_safe_c** This directory includes only a hearder file with some usefull macros that provide extra safety to the use of tricky C functions.
 
