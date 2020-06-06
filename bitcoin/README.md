@@ -66,7 +66,7 @@ In the application's prompt the following commands are provided:
 
 2. `/walletStatus` This command returns the available amount in a user's *wallet*. The command's syntax is the following:
    
-   > /walletStatus <UserId>
+   > /walletStatus \<UserId\>
 
 3. `/bitCoinStatus` This command returns the bitcoin's initial value, the number of transaction's in which this bitcoin was used and it's unspent amount. The command's syntax is the following:
    
