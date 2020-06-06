@@ -24,7 +24,7 @@ The application takes 3 arguments as an input:
 
 2. A **transaction file**, which initializes the application with some transactions. Again Each record of the file is given in a single line and follows the format:
    
-   > <TransactionId>" "<UserId_1>" "<UserId_2>" "<Amount>" "<day>-<month>-<year>" "<hour>:<minute>
+   > \<TransactionId\>" "\<UserId_1\>" "\<UserId_2\>" "\<Amount\>" "\<day\>-\<month\>-\<year\>" "\<hour\>:\<minute\>
    
    E.g.:
    
@@ -38,7 +38,7 @@ The arguments are passed to the application with the following command:
 
 Additional transactions may be done via the application's prompt (see below).  These transactions can either be typed by the user in the prompt, or be loaded from a file. The **inline transactions file** follows a slightly different format from the initializing transaction file. We give the correct format bellow:
 
-> <UserId_1>" "<UserId_2>" "<Amount>" "<day>-<month>-<year>" "<hour>:<minute>;
+> \<UserId_1\>" "\<UserId_2\>" "\<Amount\>" "\<day\>-\<month\>-\<year\>" "\<hour\>:\<minute\>;
 
 As you can see here the `transactionsId` is omitted (the application internally produces one) and many records can be given in a single line, separated by semicolon `;`. The usage of a different format is so that it matches the inline transaction format of the prompt (see bellow).
 
@@ -54,7 +54,7 @@ In the application's prompt the following commands are provided:
 
 1. `/requestTransaction` This command comes in multiple flavours. The programme recognises the format of the command's arguments and behaves analogously. The supported formats are the following:
    
-   1. > /requestTransaction <UserId_1>" "<UserId_2>" "<Amount>" "<day>-<month>-<year>" "<hour>:<minute>
+   1. > /requestTransaction \<UserId_1\>" "\<UserId_2\>" "\<Amount\>" "\<day\>-\<month\>-\<year\>" "\<hour\>:\<minute\>
       
       for a single transaction.
    
