@@ -14,7 +14,7 @@ Firstly, we discribe the libraries made for the projects.
 
 2. **lib_safe_c** This directory includes only a hearder file with some usefull macros that provide extra safety to the use of tricky C functions.
 
-3. **lib_system** In this directory are placed all the source files reguarding [system calls](https://en.wikipedia.org/wiki/System_call). The main concern this library was to make the C system calls more reliable and easy to use. This is achived by implementing a higher level of abstraction. The various functions of this library take as arguments complex data structures, defined by the lib_containers. Making compatible the use of containers with low level system calls.
+3. **lib_system** In this directory are placed all the source files reguarding [system calls](https://en.wikipedia.org/wiki/System_call). The main concern this library was to make the C system calls more reliable and easy to use. This is achived by implementing a higher level of abstraction. The various functions of this library take as arguments complex data structures, defined by the lib_containers. Thus, making compatible the use of containers with low level system calls.
 
 4. **lib_utilities** In this directory are placed some source files reguarding utilities that are used throughout the whole project.
 
