@@ -26,7 +26,7 @@ Now, we desrcibe the projects that make use of the libraries described above. Ev
 
 2. **p2p_mirror** A peer to peer application, where each process owns a directory and every other process mirrors the process's directory. (A project about [Linux](https://en.wikipedia.org/wiki/Linux)/[Unix](https://en.wikipedia.org/wiki/Unix) [inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication).) See `./p2p_mirror/README.md` for more information.
 
-3. **dropbox** A drobox simulator. (A project about [Linux](https://en.wikipedia.org/wiki/Linux)/[Unix](https://en.wikipedia.org/wiki/Unix) [network sockets]([https://en.wikipedia.org/wiki/Network_socket) and [threads]([https://en.wikipedia.org/wiki/Thread_(computing)).) This project is similar to `p2p-mirror`.
+3. **dropbox** A drobox simulator. (A project about [Linux](https://en.wikipedia.org/wiki/Linux)/[Unix](https://en.wikipedia.org/wiki/Unix) [network sockets]([https://en.wikipedia.org/wiki/Network_socket) and [threads]([https://en.wikipedia.org/wiki/Thread_(computing)).) This project is similar to `p2p-mirror`.  See `./dropbox/README.md` for more information.
 
 ## Notes
 
