@@ -1,0 +1,570 @@
+Senter [2 : 1] 22
+Senter [2 : 1] ./input_2/input_23.txt
+Senter [2 : 1] 698
+Senter [2 : 1] Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Senter [2 : 1] 22
+Senter [2 : 1] ./input_2/input_21.txt
+Senter [2 : 1] 1005
+Senter [2 : 1] in culpa qui officia deserunt mollit anim id est laborum.
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in culpa qui officia deserunt mollit anim id est laborum.
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in culpa qui officia deserunt mollit anim id est laborum.
+Ut enim ad minim veniam quis nostrud exercitation ullamco labori
+
+Senter [2 : 1] 22
+Senter [2 : 1] ./input_2/input_24.txt
+Senter [2 : 1] 64
+Senter [2 : 1] in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Senter [2 : 1] 22
+Senter [2 : 1] ./input_2/input_22.txt
+Senter [2 : 1] 58
+Senter [2 : 1] Lorem ipsum dolor sit amet consectetur adipiscing elit se
+
+Senter [2 : 1] 00
+Senter [2 : 1] SENTER END
+Receiver [2 : 1] 22
+Receiver [2 : 1] ./input_2/input_23.txt
+Receiver [2 : 1] 698
+Receiver [2 : 1] Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Receiver [2 : 1] 22
+Receiver [2 : 1] ./input_2/input_21.txt
+Receiver [2 : 1] 1005
+Receiver [2 : 1] in culpa qui officia deserunt mollit anim id est laborum.
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in culpa qui officia deserunt mollit anim id est laborum.
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in culpa qui officia deserunt mollit anim id est laborum.
+Ut enim ad minim veniam quis nostrud exercitation ullamco labori
+
+Receiver [2 : 1] 22
+Receiver [2 : 1] ./input_2/input_24.txt
+Receiver [2 : 1] 64
+Receiver [2 : 1] in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Receiver [2 : 1] 22
+Receiver [2 : 1] ./input_2/input_22.txt
+Receiver [2 : 1] 58
+Receiver [2 : 1] Lorem ipsum dolor sit amet consectetur adipiscing elit se
+
+Receiver [2 : 1] 0
+Receiver [2 : 1] RECEIVER END
+Senter [1 : 2] 19
+Senter [1 : 2] ./input_1/input_11/
+Senter [1 : 2] 0
+Senter [1 : 2] 
+Senter [1 : 2] 19
+Senter [1 : 2] ./input_1/input_12/
+Senter [1 : 2] 0
+Senter [1 : 2] 
+Senter [1 : 2] 31
+Senter [1 : 2] ./input_1/input_13/input_13.txt
+Senter [1 : 2] 2674
+Senter [1 : 2] do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Senter [1 : 2] 00
+Senter [1 : 2] SENTER END
+Receiver [1 : 2] 19
+Receiver [1 : 2] ./input_1/input_11/
+Receiver [1 : 2] 0
+Receiver [1 : 2] 
+Receiver [1 : 2] 19
+Receiver [1 : 2] ./input_1/input_12/
+Receiver [1 : 2] 0
+Receiver [1 : 2] 
+Receiver [1 : 2] 31
+Receiver [1 : 2] ./input_1/input_13/input_13.txt
+Receiver [1 : 2] 2674
+Receiver [1 : 2] do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Receiver [1 : 2] 0
+Receiver [1 : 2] RECEIVER END
+Senter [3 : 2] 22
+Senter [3 : 2] ./input_3/input_31.txt
+Senter [3 : 2] 1839
+Senter [3 : 2] Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua
+
+Senter [3 : 2] 00
+Senter [3 : 2] SENTER END
+Receiver [3 : 2] 22
+Receiver [3 : 2] ./input_3/input_31.txt
+Receiver [3 : 2] 1839
+Receiver [3 : 2] Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua
+
+Receiver [3 : 2] 0
+Receiver [3 : 2] RECEIVER END
+Senter [3 : 1] 22
+Senter [3 : 1] ./input_3/input_31.txt
+Senter [3 : 1] 1839
+Senter [3 : 1] Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua
+
+Senter [3 : 1] 00
+Senter [3 : 1] SENTER END
+Receiver [3 : 1] 22
+Receiver [3 : 1] ./input_3/input_31.txt
+Receiver [3 : 1] 1839
+Receiver [3 : 1] Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua
+
+Receiver [3 : 1] 0
+Receiver [3 : 1] RECEIVER END
+Senter [2 : 3] 22
+Senter [2 : 3] ./input_2/input_23.txt
+Senter [2 : 3] 698
+Senter [2 : 3] Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Senter [2 : 3] 22
+Senter [2 : 3] ./input_2/input_21.txt
+Senter [2 : 3] 1005
+Senter [2 : 3] in culpa qui officia deserunt mollit anim id est laborum.
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in culpa qui officia deserunt mollit anim id est laborum.
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in culpa qui officia deserunt mollit anim id est laborum.
+Ut enim ad minim veniam quis nostrud exercitation ullamco labori
+
+Senter [2 : 3] 22
+Senter [2 : 3] ./input_2/input_24.txt
+Senter [2 : 3] 64
+Senter [2 : 3] in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Senter [2 : 3] 22
+Senter [2 : 3] ./input_2/input_22.txt
+Senter [2 : 3] 58
+Senter [2 : 3] Lorem ipsum dolor sit amet consectetur adipiscing elit se
+
+Senter [2 : 3] 00
+Senter [2 : 3] SENTER END
+Receiver [2 : 3] 22
+Receiver [2 : 3] ./input_2/input_23.txt
+Receiver [2 : 3] 698
+Receiver [2 : 3] Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Receiver [2 : 3] 22
+Receiver [2 : 3] ./input_2/input_21.txt
+Receiver [2 : 3] 1005
+Receiver [2 : 3] in culpa qui officia deserunt mollit anim id est laborum.
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in culpa qui officia deserunt mollit anim id est laborum.
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in culpa qui officia deserunt mollit anim id est laborum.
+Ut enim ad minim veniam quis nostrud exercitation ullamco labori
+
+Receiver [2 : 3] 22
+Receiver [2 : 3] ./input_2/input_24.txt
+Receiver [2 : 3] 64
+Receiver [2 : 3] in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Receiver [2 : 3] 22
+Receiver [2 : 3] ./input_2/input_22.txt
+Receiver [2 : 3] 58
+Receiver [2 : 3] Lorem ipsum dolor sit amet consectetur adipiscing elit se
+
+Receiver [2 : 3] 0
+Receiver [2 : 3] RECEIVER END
+Senter [1 : 3] 19
+Senter [1 : 3] ./input_1/input_11/
+Senter [1 : 3] 0
+Senter [1 : 3] 
+Senter [1 : 3] 19
+Senter [1 : 3] ./input_1/input_12/
+Senter [1 : 3] 0
+Senter [1 : 3] 
+Senter [1 : 3] 31
+Senter [1 : 3] ./input_1/input_13/input_13.txt
+Senter [1 : 3] 2674
+Senter [1 : 3] do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Senter [1 : 3] 00
+Senter [1 : 3] SENTER END
+Receiver [1 : 3] 19
+Receiver [1 : 3] ./input_1/input_11/
+Receiver [1 : 3] 0
+Receiver [1 : 3] 
+Receiver [1 : 3] 19
+Receiver [1 : 3] ./input_1/input_12/
+Receiver [1 : 3] 0
+Receiver [1 : 3] 
+Receiver [1 : 3] 31
+Receiver [1 : 3] ./input_1/input_13/input_13.txt
+Receiver [1 : 3] 2674
+Receiver [1 : 3] do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+do eiusmod tempor incididun ut labore et dolore magna aliqua.
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nisi ut aliquip ex ea commodo consequat Duis aute irure dolor
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+in culpa qui officia deserunt mollit anim id est laborum.
+in culpa qui officia deserunt mollit anim id est laborum.
+in reprehenderit in voluptate velit esse cillum dolore eu fugia
+
+Receiver [1 : 3] 0
+Receiver [1 : 3] RECEIVER END
+Client 3: create id file
+Client 3: spawn senter to 2
+Client 3: spawn senter to 1
+Client 3: spawn receiveer from 2
+Client 3: spawn receiver from 1
+Client 3: LOG OUT
+Client 2: create id file
+Client 2: spawn senter to 1
+Client 2: spawn receiver from 1
+Client 2: spawn receiver from 3
+Client 2: spawn senter to 3
+Client 2: LOG OUT
+Client 1: create id file
+Client 1: spawn receiver from 2
+Client 1: spawn senter to 2
+Client 1: spawn receiver from 3
+Client 1: spawn senter to 3
+Client 1: LOG OUT
