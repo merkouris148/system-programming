@@ -24,9 +24,9 @@ Now, we desrcibe the projects that make use of the libraries described above. Ev
 
 1. **bitcoin** A virtual bank for handling bitcoin transactions. (A project about data structures in C/C++.) See `./bitcoin/README.md` for more information.
 
-2. **p2p_mirror** A peer to peer application, where each process owns a directory and every other process mirrors the process's directory. (A project about [Linux]([Linux - Wikipedia](https://en.wikipedia.org/wiki/Linux))/[Unix]([Unix - Wikipedia](https://en.wikipedia.org/wiki/Unix)) [inter-process communication]([Inter-process communication - Wikipedia](https://en.wikipedia.org/wiki/Inter-process_communication)).) See `./p2p_mirror/README.md` for more information.
+2. **p2p_mirror** A peer to peer application, where each process owns a directory and every other process mirrors the process's directory. (A project about [Linux](https://en.wikipedia.org/wiki/Linux)/[Unix](https://en.wikipedia.org/wiki/Unix) [inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication).) See `./p2p_mirror/README.md` for more information.
 
-3. **dropbox** A drobox simulator. (A project about [Linux]([Linux - Wikipedia](https://en.wikipedia.org/wiki/Linux))/[Unix]([Unix - Wikipedia](https://en.wikipedia.org/wiki/Unix)) [network sockets]([Network socket - Wikipedia](https://en.wikipedia.org/wiki/Network_socket)) and [threads]([Thread (computing) - Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing))).) This project is similar to `p2p-mirror`.
+3. **dropbox** A drobox simulator. (A project about [Linux](https://en.wikipedia.org/wiki/Linux)/[Unix](https://en.wikipedia.org/wiki/Unix) [network sockets]([https://en.wikipedia.org/wiki/Network_socket) and [threads]([https://en.wikipedia.org/wiki/Thread_(computing)).) This project is similar to `p2p-mirror`.
 
 ## Notes
 
