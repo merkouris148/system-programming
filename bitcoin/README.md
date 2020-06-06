@@ -70,11 +70,11 @@ In the application's prompt the following commands are provided:
 
 3. `/bitCoinStatus` This command returns the bitcoin's initial value, the number of transaction's in which this bitcoin was used and it's unspent amount. The command's syntax is the following:
    
-   > /bitCoinStatus <bitcoinId>
+   > /bitCoinStatus \<bitcoinId\>
 
 4. `/traceCoin` This command returns the bitcoin's history, all the transactions in which has been used.  The command's syntax is the following:
    
-   > /traceCoin <bitcoinId>
+   > /traceCoin \<bitcoinId\>
 
 5. `/exit` With this command the users exits the programme.  /exit command takes no arguments.
 
