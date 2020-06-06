@@ -1,12 +1,12 @@
 # dropbox
 
-A drobox simulator, written in C++. (A project about [Linux]([Linux - Wikipedia](https://en.wikipedia.org/wiki/Linux))/[Unix]([Unix - Wikipedia](https://en.wikipedia.org/wiki/Unix)) [network sockets]([Network socket - Wikipedia](https://en.wikipedia.org/wiki/Network_socket)) and [threads]([Thread (computing) - Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing))).) This project is similar to `p2p-mirror`.
+A drobox simulator, written in C++. (A project about [Linux](https://en.wikipedia.org/wiki/Linux)/[Unix](https://en.wikipedia.org/wiki/Unix) [network sockets](https://en.wikipedia.org/wiki/Network_socket) and [threads](https://en.wikipedia.org/wiki/Thread_(computing)).) This project is similar to `p2p-mirror`.
 
 In this project we implemented two entities, a `dropbox_server` and a `dropbox_client`. Each dropbox_client has a directory with some files in it. Every time a dropbox_client is launched, it connects to the dropbox_server. The dropbox_server, then, informs the new dropbox_client about any other existing dropobox_client. Then the dropbox_clients communicate with each other in order to exchange their files. In the end every dropbox_client has a copy of every other dropbox_client's files in it's `mirror_directory`.
 
 ## Input
 
-The dropbox_server takes 1 argument, it's [**port number**]([Port (computer networking) - Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))), where it listens for dropbox_clients requests. This argument is passed to the server with the following command:
+The dropbox_server takes 1 argument, it's [**port number**](https://en.wikipedia.org/wiki/Port_(computer_networking)), where it listens for dropbox_clients requests. This argument is passed to the server with the following command:
 
 `./dropbox_server -p <port>`
 
@@ -14,7 +14,7 @@ Whereas the dropbox_client takes 5 arguments:
 
 1. A **port number**, where the dropbox_client listens for request from other clients and the dropbox_server.
 
-2. It's [**ip address**]([IP address - Wikipedia](https://en.wikipedia.org/wiki/IP_address)), which will sent to the dropbox_server in order to other clients find it. This argument *may be omitted*, the default value is `localhost` .
+2. It's [**ip address**](https://en.wikipedia.org/wiki/IP_address), which will sent to the dropbox_server in order to other clients find it. This argument *may be omitted*, the default value is `localhost` .
 
 3. An **input directory**, under which are the client's files. The input directories must not cointain any subdirectories (see **Issues** bellow).
 
@@ -93,6 +93,6 @@ In order to terminate the server or a client you have to use the `fg` command. T
 ## Notes
 
 - This code is written in C++11 and compiled with [GNU g++ compiler](https://en.wikipedia.org/wiki/GNU_Compiler_Collection#Languages), version 7.5.0.
-- All the shell commands described above are for the [BASH]([Bash (Unix shell) - Wikipedia](https://en.wikipedia.org/wiki/Bash_(Unix_shell))) Unix Shell.
+- All the shell commands described above are for the [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell))) Unix Shell.
 - To compile this application use the `make` command.
 - A more detailed description of this assignment can be found in the file `hw3-spring-2019.pdf` (in Greek).
